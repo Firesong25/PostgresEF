@@ -1,0 +1,7 @@
+Server=tcp:argentpony.database.windows.net,1433;Initial Catalog=wowdata;Persist Security Info=False;User ID=ArgentPonyDatabaseServer;Password=k3ndricK=db;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+clientId=df7ba6a1c1d0401da469641020eee654
+clientSecret=x4YnqzqtNwGLszRn7HkXWMOCG7Mav643
+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
+Host=www.cleardragon.com;Username=sagorne;Password=Cl34rdr4^;Database=wowdata;
+cosmosEndPoint=https://853786b9-0ee0-4-231-b9ee.documents.azure.com:443/
+cosmosKey=uH01pjKMd8RCx1BGv87XDOoeGvQjnh4h6FSjtV6mi5k4ZNx9CL0GtIf9Qup2uZnnHltMYnhuIbSsWuxKa1ygpw==
